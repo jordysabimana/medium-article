@@ -52,10 +52,12 @@ a {
 }
 
 .banner {
-    background-image: url("https://plus.unsplash.com/premium_photo-1670689707787-ac9a9dd082e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1315&q=80");
+    background-image: url("https://www.kcc.rw/uploads/9/8/2/4/98249186/illume_orig.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     color: white;
     padding: 120px 0;
+    height: 500px;
 }
 
 .container {
